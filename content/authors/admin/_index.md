@@ -1,8 +1,7 @@
 ---
 title: Jeremy
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Teams
+bio: Test
 interests:
   - Artificial Intelligence
   - Computational Linguistics
